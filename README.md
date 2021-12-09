@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/%F0%9F%94%8B-NieGe365-gray.svg?colorA=FF5733&colorB=FF9633&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/%E2%9C%88%EF%B8%8F-hero-gray.svg?colorA=33C6FF&colorB=3395FF&style=for-the-badge"/>
     <a href="https://t.me/+NMtbkJmuPdxjZjc9">
-      <img src="https://img.shields.io/badge/%F0%9F%92%AC-涅槃茶馆-gray.svg?colorA=FE669D&colorB=F7409B&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/%F0%9F%92%AC-niepantea-gray.svg?colorA=FE669D&colorB=F7409B&style=for-the-badge"/>
     </a>
 </p>
 
