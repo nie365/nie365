@@ -4,9 +4,7 @@
 <p align="center">
  <img width="150px" src="https://avatars.githubusercontent.com/u/91982098?v=4" align="center" alt="Avator" />
  <h2 align="center">
-   <!--<a href="https://xtaolink.cn">-->
      nie365
-   <!--</a>-->
  </h2>
  <p align="center">
   快使用双截棍，哼哼哈嘿
@@ -22,8 +20,10 @@
       <img src="https://img.shields.io/badge/%F0%9F%92%AC-niepantea-gray.svg?colorA=FE669D&colorB=F7409B&style=for-the-badge"/>
     </a>
 </p>
----
-#### About Me :wave:
+ <h2 align="center">
+     About Me :wave:
+ </h2>
+ 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nie365&show_icons=true&theme=radical">](https://metrics.lecoq.io/nie365?template=classic)
 - 🍻 I'm **nie365**, a Bloger from China.
 - 👯 join us to [Telegram Group](https://t.me/niepantea).
