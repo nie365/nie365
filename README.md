@@ -2,7 +2,7 @@
 头像
 -->
 <p align="center">
- <img width="150px" src="https://avatars.githubusercontent.com/u/91982098?s=40&v=4" align="center" alt="Avator" />
+ <img width="150px" src="https://avatars.githubusercontent.com/u/91982098?v=4" align="center" alt="Avator" />
  <h2 align="center">
    <!--<a href="https://xtaolink.cn">-->
      nie365
@@ -56,7 +56,7 @@ Github Stats
 </p>
 <!--
 Top Langs
--->
+
 <p align="center">
  <h2 align="center">
  </h2>
@@ -64,7 +64,7 @@ Top Langs
   Top Langs
  </p>
 </p>
-
+-->
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nie365&layout=compact&langs_count=8&card_width=445" align="center" alt="labgs" />
 </p>
